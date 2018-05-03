@@ -35,6 +35,7 @@ public class ProofInMontyHallProblem {
             }
         }
         System.out.println("Correct: " + correct + "\n Incorrect: " + incorrect);
+        //This shows you guess correctly 66% of the time!
     }
 
 
